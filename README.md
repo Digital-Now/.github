@@ -1,4 +1,4 @@
-# 🌐 Willkommen bei Digital Now - Zukunft ist jetzt! #  
+#  Willkommen bei Digital Now - Zukunft ist jetzt! #  
 
 Digital Now ist eine innovative und zukunftsorientierte Organisation, die sich darauf spezialisiert hat, Ihren Onlineauftritt in der digitalen Welt erfolgreich zu etablieren. Unser vielseitiges und erfahrenes Team aus Web-Developern, Mediendesignern arbeiten engagiert und leidenschaftlich daran, Ihre Vision in die Realität umzusetzen und Ihnen einen Wettbewerbsvorteil zu verschaffen.
 
@@ -22,7 +22,7 @@ Wir konzipieren und realisieren professionelle und benutzerfreundliche Online-Sh
 Egal, ob Sie nur einzelne Bausteine oder das Rundum-Sorglos-Paket wünschen – wir bieten flexible Lösungen, die genau auf Ihre Bedürfnisse zugeschnitten sind. Kontaktieren Sie uns und lassen Sie uns gemeinsam Ihre individuelle Online-Präsenz gestalten, die Ihre Marke stärkt und Ihr Unternehmen erfolgreich in die Zukunft führt.
 
 <a href="https://www.digital-now.org" target="_blank">
-  <img src="https://user-images.githubusercontent.com/102250825/232752572-14f59d3f-c952-4da2-9139-36779ff89545.png" alt="Element-13Logo_Digital_Now2-2" style="max-width: 100px; height: auto;">
+  <img src="https://user-images.githubusercontent.com/102250825/232752572-14f59d3f-c952-4da2-9139-36779ff89545.png" alt="Element-13Logo_Digital_Now2-2" style="max-width: 50px; height: auto;">
 </a>
 
 

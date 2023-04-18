@@ -1,5 +1,5 @@
 # <a href="https://www.digital-now.org" target="_blank">
-  <img src="https://user-images.githubusercontent.com/102250825/232752572-14f59d3f-c952-4da2-9139-36779ff89545.png" alt="Element-13Logo_Digital_Now2-2" style="max-width: 5px;">
+  <img src="https://user-images.githubusercontent.com/102250825/232752572-14f59d3f-c952-4da2-9139-36779ff89545.png" alt="Element-13Logo_Digital_Now2-2" style="width: 5px;">
 </a> Willkommen bei Digital Now - Zukunft ist jetzt! #  
 
 Digital Now ist eine innovative und zukunftsorientierte Organisation, die sich darauf spezialisiert hat, Ihren Onlineauftritt in der digitalen Welt erfolgreich zu etablieren. Unser vielseitiges und erfahrenes Team aus Web-Developern, Mediendesignern arbeiten engagiert und leidenschaftlich daran, Ihre Vision in die Realität umzusetzen und Ihnen einen Wettbewerbsvorteil zu verschaffen.
